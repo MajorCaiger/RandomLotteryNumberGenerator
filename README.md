@@ -7,6 +7,7 @@
 ## Options
 
 | Option       | Default | Description                  |
+|--------------|---------|------------------------------|
 | --numbers    | 6       | How many numbers to generate |
 | --range-from | 1       | Lowest number of the range   |
 | --range-to   | 59      | Highest number of the range  |
